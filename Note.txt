@@ -1,0 +1,12 @@
+// to run eureka 
+u can run in two diff way make jar and run or You can run directly
+using spring boot run
+
+http://localhost:8666/
+to check  eureka by entering portnumber of 
+eureka and your local address
+
+to check other application 
+http://localhost:8081/api/statuscheck
+using port number
+we can check

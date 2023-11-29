@@ -1,0 +1,11 @@
+//dependencies
+EureKa discovary
+devtools
+web
+
+//Application properties
+server.port=8081
+spring.application.name=Micro-main
+##eureka server portno with url
+eureka.client.serviceUrl.defaultZone=http://localhost:8666/eureka/
+spring.devtools.restart.enabled=true
